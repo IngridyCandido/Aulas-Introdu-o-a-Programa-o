@@ -1,0 +1,14 @@
+C:\Users\20251038060006\Desktop\C#\Form\obj\Debug\net8.0\Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20251038060006\Desktop\C#\Form\obj\Debug\net8.0\Form.AssemblyInfoInputs.cache
+C:\Users\20251038060006\Desktop\C#\Form\obj\Debug\net8.0\Form.AssemblyInfo.cs
+C:\Users\20251038060006\Desktop\C#\Form\obj\Debug\net8.0\Form.csproj.CoreCompileInputs.cache
+C:\Users\20251038060006\Desktop\C#\Form\bin\Debug\net8.0\Form.exe
+C:\Users\20251038060006\Desktop\C#\Form\bin\Debug\net8.0\Form.deps.json
+C:\Users\20251038060006\Desktop\C#\Form\bin\Debug\net8.0\Form.runtimeconfig.json
+C:\Users\20251038060006\Desktop\C#\Form\bin\Debug\net8.0\Form.dll
+C:\Users\20251038060006\Desktop\C#\Form\bin\Debug\net8.0\Form.pdb
+C:\Users\20251038060006\Desktop\C#\Form\obj\Debug\net8.0\Form.dll
+C:\Users\20251038060006\Desktop\C#\Form\obj\Debug\net8.0\refint\Form.dll
+C:\Users\20251038060006\Desktop\C#\Form\obj\Debug\net8.0\Form.pdb
+C:\Users\20251038060006\Desktop\C#\Form\obj\Debug\net8.0\Form.genruntimeconfig.cache
+C:\Users\20251038060006\Desktop\C#\Form\obj\Debug\net8.0\ref\Form.dll
