@@ -1,16 +1,20 @@
 inicio
     inteiro numero,resto
-    escrever "Qual o n˙mero que vocÍ deseja analisar? "
+    escrever "Qual o n√∫mero que voc√™ deseja analisar? "
     ler numero
-    se numero > 0 ent„o 
-        escrever "Seu n˙mero È positivo."
-    sen„o
-        escrever "Seu n˙mero È negativo."
+    se numero > 0 ent√£o 
+        escrever "Seu n√∫mero √© positivo."
+    sen√£o
+        se numero = 0 ent√£o
+            escrever "Seu n√∫mero √© Zero."
+        sen√£o
+            escrever "Seu n√∫mero √© negativo."
+        fimse
     fimse
-    resto <- n˙mero % 2 
-    se resto = 0 ent„o
-        escrever " E seu n˙mero È par."
-    sen„o 
-        escrever " E seu n˙mero È impar."
+    resto <- n√∫mero % 2 
+    se resto = 0 ent√£o
+        escrever " E seu n√∫mero √© par."
+    sen√£o 
+        escrever " E seu n√∫mero √© impar."
     fimse
 fim
