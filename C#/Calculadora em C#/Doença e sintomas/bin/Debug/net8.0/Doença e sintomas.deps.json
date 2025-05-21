@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Doença e sintomas/1.0.0": {
+        "runtime": {
+          "Doença e sintomas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Doença e sintomas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\20251038060006\source\repos\Doença e sintomas\Doença e sintomas\bin\Debug\net8.0\Doença e sintomas.exe
+C:\Users\20251038060006\source\repos\Doença e sintomas\Doença e sintomas\bin\Debug\net8.0\Doença e sintomas.deps.json
+C:\Users\20251038060006\source\repos\Doença e sintomas\Doença e sintomas\bin\Debug\net8.0\Doença e sintomas.runtimeconfig.json
+C:\Users\20251038060006\source\repos\Doença e sintomas\Doença e sintomas\bin\Debug\net8.0\Doença e sintomas.dll
+C:\Users\20251038060006\source\repos\Doença e sintomas\Doença e sintomas\bin\Debug\net8.0\Doença e sintomas.pdb
+C:\Users\20251038060006\source\repos\Doença e sintomas\Doença e sintomas\obj\Debug\net8.0\Doença e sintomas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20251038060006\source\repos\Doença e sintomas\Doença e sintomas\obj\Debug\net8.0\Doença e sintomas.AssemblyInfoInputs.cache
+C:\Users\20251038060006\source\repos\Doença e sintomas\Doença e sintomas\obj\Debug\net8.0\Doença e sintomas.AssemblyInfo.cs
+C:\Users\20251038060006\source\repos\Doença e sintomas\Doença e sintomas\obj\Debug\net8.0\Doença e sintomas.csproj.CoreCompileInputs.cache
+C:\Users\20251038060006\source\repos\Doença e sintomas\Doença e sintomas\obj\Debug\net8.0\Doença e sintomas.dll
+C:\Users\20251038060006\source\repos\Doença e sintomas\Doença e sintomas\obj\Debug\net8.0\refint\Doença e sintomas.dll
+C:\Users\20251038060006\source\repos\Doença e sintomas\Doença e sintomas\obj\Debug\net8.0\Doença e sintomas.pdb
+C:\Users\20251038060006\source\repos\Doença e sintomas\Doença e sintomas\obj\Debug\net8.0\Doença e sintomas.genruntimeconfig.cache
+C:\Users\20251038060006\source\repos\Doença e sintomas\Doença e sintomas\obj\Debug\net8.0\ref\Doença e sintomas.dll
