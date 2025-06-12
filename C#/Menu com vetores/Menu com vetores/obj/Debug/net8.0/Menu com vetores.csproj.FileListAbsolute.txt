@@ -1,0 +1,14 @@
+C:\Users\20251038060006\source\repos\Menu com vetores\Menu com vetores\obj\Debug\net8.0\Menu com vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20251038060006\source\repos\Menu com vetores\Menu com vetores\obj\Debug\net8.0\Menu com vetores.AssemblyInfoInputs.cache
+C:\Users\20251038060006\source\repos\Menu com vetores\Menu com vetores\obj\Debug\net8.0\Menu com vetores.AssemblyInfo.cs
+C:\Users\20251038060006\source\repos\Menu com vetores\Menu com vetores\obj\Debug\net8.0\Menu com vetores.csproj.CoreCompileInputs.cache
+C:\Users\20251038060006\source\repos\Menu com vetores\Menu com vetores\bin\Debug\net8.0\Menu com vetores.exe
+C:\Users\20251038060006\source\repos\Menu com vetores\Menu com vetores\bin\Debug\net8.0\Menu com vetores.deps.json
+C:\Users\20251038060006\source\repos\Menu com vetores\Menu com vetores\bin\Debug\net8.0\Menu com vetores.runtimeconfig.json
+C:\Users\20251038060006\source\repos\Menu com vetores\Menu com vetores\bin\Debug\net8.0\Menu com vetores.dll
+C:\Users\20251038060006\source\repos\Menu com vetores\Menu com vetores\bin\Debug\net8.0\Menu com vetores.pdb
+C:\Users\20251038060006\source\repos\Menu com vetores\Menu com vetores\obj\Debug\net8.0\Menu com vetores.dll
+C:\Users\20251038060006\source\repos\Menu com vetores\Menu com vetores\obj\Debug\net8.0\refint\Menu com vetores.dll
+C:\Users\20251038060006\source\repos\Menu com vetores\Menu com vetores\obj\Debug\net8.0\Menu com vetores.pdb
+C:\Users\20251038060006\source\repos\Menu com vetores\Menu com vetores\obj\Debug\net8.0\Menu com vetores.genruntimeconfig.cache
+C:\Users\20251038060006\source\repos\Menu com vetores\Menu com vetores\obj\Debug\net8.0\ref\Menu com vetores.dll
