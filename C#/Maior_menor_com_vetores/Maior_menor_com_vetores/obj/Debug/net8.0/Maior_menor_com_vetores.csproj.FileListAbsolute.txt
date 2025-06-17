@@ -1,0 +1,14 @@
+C:\Users\Ingri\source\repos\Maior_menor_com_vetores\Maior_menor_com_vetores\obj\Debug\net8.0\Maior_menor_com_vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingri\source\repos\Maior_menor_com_vetores\Maior_menor_com_vetores\obj\Debug\net8.0\Maior_menor_com_vetores.AssemblyInfoInputs.cache
+C:\Users\Ingri\source\repos\Maior_menor_com_vetores\Maior_menor_com_vetores\obj\Debug\net8.0\Maior_menor_com_vetores.AssemblyInfo.cs
+C:\Users\Ingri\source\repos\Maior_menor_com_vetores\Maior_menor_com_vetores\obj\Debug\net8.0\Maior_menor_com_vetores.csproj.CoreCompileInputs.cache
+C:\Users\Ingri\source\repos\Maior_menor_com_vetores\Maior_menor_com_vetores\bin\Debug\net8.0\Maior_menor_com_vetores.exe
+C:\Users\Ingri\source\repos\Maior_menor_com_vetores\Maior_menor_com_vetores\bin\Debug\net8.0\Maior_menor_com_vetores.deps.json
+C:\Users\Ingri\source\repos\Maior_menor_com_vetores\Maior_menor_com_vetores\bin\Debug\net8.0\Maior_menor_com_vetores.runtimeconfig.json
+C:\Users\Ingri\source\repos\Maior_menor_com_vetores\Maior_menor_com_vetores\bin\Debug\net8.0\Maior_menor_com_vetores.dll
+C:\Users\Ingri\source\repos\Maior_menor_com_vetores\Maior_menor_com_vetores\bin\Debug\net8.0\Maior_menor_com_vetores.pdb
+C:\Users\Ingri\source\repos\Maior_menor_com_vetores\Maior_menor_com_vetores\obj\Debug\net8.0\Maior_menor_com_vetores.dll
+C:\Users\Ingri\source\repos\Maior_menor_com_vetores\Maior_menor_com_vetores\obj\Debug\net8.0\refint\Maior_menor_com_vetores.dll
+C:\Users\Ingri\source\repos\Maior_menor_com_vetores\Maior_menor_com_vetores\obj\Debug\net8.0\Maior_menor_com_vetores.pdb
+C:\Users\Ingri\source\repos\Maior_menor_com_vetores\Maior_menor_com_vetores\obj\Debug\net8.0\Maior_menor_com_vetores.genruntimeconfig.cache
+C:\Users\Ingri\source\repos\Maior_menor_com_vetores\Maior_menor_com_vetores\obj\Debug\net8.0\ref\Maior_menor_com_vetores.dll
