@@ -1,10 +1,5 @@
-using System.Diagnostics;
-using System.Net;
-using System.Reflection;
-
 namespace Maior_menor_com_vetores
 {
-    [DebuggerDisplay($"{{{nameof(GetDebuggerDisplay)}(),nq}}")]
     internal class Program
     {
         static void Main(string[] args)
