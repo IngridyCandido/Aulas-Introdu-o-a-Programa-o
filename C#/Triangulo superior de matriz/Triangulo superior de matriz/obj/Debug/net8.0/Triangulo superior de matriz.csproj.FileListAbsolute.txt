@@ -1,0 +1,14 @@
+C:\Users\20251038060006\source\repos\Triangulo superior de matriz\Triangulo superior de matriz\obj\Debug\net8.0\Triangulo superior de matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20251038060006\source\repos\Triangulo superior de matriz\Triangulo superior de matriz\obj\Debug\net8.0\Triangulo superior de matriz.AssemblyInfoInputs.cache
+C:\Users\20251038060006\source\repos\Triangulo superior de matriz\Triangulo superior de matriz\obj\Debug\net8.0\Triangulo superior de matriz.AssemblyInfo.cs
+C:\Users\20251038060006\source\repos\Triangulo superior de matriz\Triangulo superior de matriz\obj\Debug\net8.0\Triangulo superior de matriz.csproj.CoreCompileInputs.cache
+C:\Users\20251038060006\source\repos\Triangulo superior de matriz\Triangulo superior de matriz\bin\Debug\net8.0\Triangulo superior de matriz.exe
+C:\Users\20251038060006\source\repos\Triangulo superior de matriz\Triangulo superior de matriz\bin\Debug\net8.0\Triangulo superior de matriz.deps.json
+C:\Users\20251038060006\source\repos\Triangulo superior de matriz\Triangulo superior de matriz\bin\Debug\net8.0\Triangulo superior de matriz.runtimeconfig.json
+C:\Users\20251038060006\source\repos\Triangulo superior de matriz\Triangulo superior de matriz\bin\Debug\net8.0\Triangulo superior de matriz.dll
+C:\Users\20251038060006\source\repos\Triangulo superior de matriz\Triangulo superior de matriz\bin\Debug\net8.0\Triangulo superior de matriz.pdb
+C:\Users\20251038060006\source\repos\Triangulo superior de matriz\Triangulo superior de matriz\obj\Debug\net8.0\Triangulo superior de matriz.dll
+C:\Users\20251038060006\source\repos\Triangulo superior de matriz\Triangulo superior de matriz\obj\Debug\net8.0\refint\Triangulo superior de matriz.dll
+C:\Users\20251038060006\source\repos\Triangulo superior de matriz\Triangulo superior de matriz\obj\Debug\net8.0\Triangulo superior de matriz.pdb
+C:\Users\20251038060006\source\repos\Triangulo superior de matriz\Triangulo superior de matriz\obj\Debug\net8.0\Triangulo superior de matriz.genruntimeconfig.cache
+C:\Users\20251038060006\source\repos\Triangulo superior de matriz\Triangulo superior de matriz\obj\Debug\net8.0\ref\Triangulo superior de matriz.dll
