@@ -1,0 +1,14 @@
+C:\Users\Ingri\source\repos\Funções de string\Funções de string\bin\Debug\net8.0\Funções de string.exe
+C:\Users\Ingri\source\repos\Funções de string\Funções de string\bin\Debug\net8.0\Funções de string.deps.json
+C:\Users\Ingri\source\repos\Funções de string\Funções de string\bin\Debug\net8.0\Funções de string.runtimeconfig.json
+C:\Users\Ingri\source\repos\Funções de string\Funções de string\bin\Debug\net8.0\Funções de string.dll
+C:\Users\Ingri\source\repos\Funções de string\Funções de string\bin\Debug\net8.0\Funções de string.pdb
+C:\Users\Ingri\source\repos\Funções de string\Funções de string\obj\Debug\net8.0\Funções de string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingri\source\repos\Funções de string\Funções de string\obj\Debug\net8.0\Funções de string.AssemblyInfoInputs.cache
+C:\Users\Ingri\source\repos\Funções de string\Funções de string\obj\Debug\net8.0\Funções de string.AssemblyInfo.cs
+C:\Users\Ingri\source\repos\Funções de string\Funções de string\obj\Debug\net8.0\Funções de string.csproj.CoreCompileInputs.cache
+C:\Users\Ingri\source\repos\Funções de string\Funções de string\obj\Debug\net8.0\Funções de string.dll
+C:\Users\Ingri\source\repos\Funções de string\Funções de string\obj\Debug\net8.0\refint\Funções de string.dll
+C:\Users\Ingri\source\repos\Funções de string\Funções de string\obj\Debug\net8.0\Funções de string.pdb
+C:\Users\Ingri\source\repos\Funções de string\Funções de string\obj\Debug\net8.0\Funções de string.genruntimeconfig.cache
+C:\Users\Ingri\source\repos\Funções de string\Funções de string\obj\Debug\net8.0\ref\Funções de string.dll
