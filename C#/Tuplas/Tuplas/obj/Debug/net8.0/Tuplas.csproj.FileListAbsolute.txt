@@ -1,0 +1,14 @@
+C:\Users\20251038060006\source\repos\Tuplas\Tuplas\bin\Debug\net8.0\Tuplas.exe
+C:\Users\20251038060006\source\repos\Tuplas\Tuplas\bin\Debug\net8.0\Tuplas.deps.json
+C:\Users\20251038060006\source\repos\Tuplas\Tuplas\bin\Debug\net8.0\Tuplas.runtimeconfig.json
+C:\Users\20251038060006\source\repos\Tuplas\Tuplas\bin\Debug\net8.0\Tuplas.dll
+C:\Users\20251038060006\source\repos\Tuplas\Tuplas\bin\Debug\net8.0\Tuplas.pdb
+C:\Users\20251038060006\source\repos\Tuplas\Tuplas\obj\Debug\net8.0\Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20251038060006\source\repos\Tuplas\Tuplas\obj\Debug\net8.0\Tuplas.AssemblyInfoInputs.cache
+C:\Users\20251038060006\source\repos\Tuplas\Tuplas\obj\Debug\net8.0\Tuplas.AssemblyInfo.cs
+C:\Users\20251038060006\source\repos\Tuplas\Tuplas\obj\Debug\net8.0\Tuplas.csproj.CoreCompileInputs.cache
+C:\Users\20251038060006\source\repos\Tuplas\Tuplas\obj\Debug\net8.0\Tuplas.dll
+C:\Users\20251038060006\source\repos\Tuplas\Tuplas\obj\Debug\net8.0\refint\Tuplas.dll
+C:\Users\20251038060006\source\repos\Tuplas\Tuplas\obj\Debug\net8.0\Tuplas.pdb
+C:\Users\20251038060006\source\repos\Tuplas\Tuplas\obj\Debug\net8.0\Tuplas.genruntimeconfig.cache
+C:\Users\20251038060006\source\repos\Tuplas\Tuplas\obj\Debug\net8.0\ref\Tuplas.dll
