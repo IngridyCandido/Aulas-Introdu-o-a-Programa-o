@@ -28,7 +28,6 @@
                         Console.WriteLine("Digite o E-mail do usuário que deseja cadastrar:");
                         usuario1.eMail = Console.ReadLine();
                         usuarioList.Add(usuario1);
-                        Console.Clear();
                         break;
                     case '2':
                         Console.WriteLine("Digite o CPF da pessoa que deseja consultar:");
@@ -40,7 +39,6 @@
                             Console.WriteLine("CPF: " + resultado.cpf);
                             Console.WriteLine("E-mail: " + resultado.eMail);
                         }
-                        Console.Clear();
                         break;
                     case '3':
                         Console.WriteLine("Digite o CPF da pessoa que deseja remover:");
@@ -50,7 +48,6 @@
                         {
                             usuarioList.Remove(resultado2);
                         }
-                        Console.Clear();
                         break;
                     case '4':
                         foreach (var n in usuarioList)
@@ -59,7 +56,6 @@
                             Console.WriteLine("CPF: " + n.cpf);
                             Console.WriteLine("E-mail: " + n.eMail);
                         }
-                        Console.Clear();
                         break;
                     case '5':
                         Console.WriteLine("Saindo do programa...");
