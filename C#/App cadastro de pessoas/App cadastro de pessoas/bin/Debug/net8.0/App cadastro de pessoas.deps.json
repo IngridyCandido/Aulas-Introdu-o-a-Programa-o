@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "App cadastro de pessoas/1.0.0": {
+        "runtime": {
+          "App cadastro de pessoas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App cadastro de pessoas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

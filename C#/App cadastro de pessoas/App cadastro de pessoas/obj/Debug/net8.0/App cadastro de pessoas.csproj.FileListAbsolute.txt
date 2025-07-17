@@ -1,0 +1,14 @@
+C:\Users\20251038060006\source\repos\App cadastro de pessoas\App cadastro de pessoas\bin\Debug\net8.0\App cadastro de pessoas.exe
+C:\Users\20251038060006\source\repos\App cadastro de pessoas\App cadastro de pessoas\bin\Debug\net8.0\App cadastro de pessoas.deps.json
+C:\Users\20251038060006\source\repos\App cadastro de pessoas\App cadastro de pessoas\bin\Debug\net8.0\App cadastro de pessoas.runtimeconfig.json
+C:\Users\20251038060006\source\repos\App cadastro de pessoas\App cadastro de pessoas\bin\Debug\net8.0\App cadastro de pessoas.dll
+C:\Users\20251038060006\source\repos\App cadastro de pessoas\App cadastro de pessoas\bin\Debug\net8.0\App cadastro de pessoas.pdb
+C:\Users\20251038060006\source\repos\App cadastro de pessoas\App cadastro de pessoas\obj\Debug\net8.0\App cadastro de pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20251038060006\source\repos\App cadastro de pessoas\App cadastro de pessoas\obj\Debug\net8.0\App cadastro de pessoas.AssemblyInfoInputs.cache
+C:\Users\20251038060006\source\repos\App cadastro de pessoas\App cadastro de pessoas\obj\Debug\net8.0\App cadastro de pessoas.AssemblyInfo.cs
+C:\Users\20251038060006\source\repos\App cadastro de pessoas\App cadastro de pessoas\obj\Debug\net8.0\App cadastro de pessoas.csproj.CoreCompileInputs.cache
+C:\Users\20251038060006\source\repos\App cadastro de pessoas\App cadastro de pessoas\obj\Debug\net8.0\App cadastro de pessoas.dll
+C:\Users\20251038060006\source\repos\App cadastro de pessoas\App cadastro de pessoas\obj\Debug\net8.0\refint\App cadastro de pessoas.dll
+C:\Users\20251038060006\source\repos\App cadastro de pessoas\App cadastro de pessoas\obj\Debug\net8.0\App cadastro de pessoas.pdb
+C:\Users\20251038060006\source\repos\App cadastro de pessoas\App cadastro de pessoas\obj\Debug\net8.0\App cadastro de pessoas.genruntimeconfig.cache
+C:\Users\20251038060006\source\repos\App cadastro de pessoas\App cadastro de pessoas\obj\Debug\net8.0\ref\App cadastro de pessoas.dll
