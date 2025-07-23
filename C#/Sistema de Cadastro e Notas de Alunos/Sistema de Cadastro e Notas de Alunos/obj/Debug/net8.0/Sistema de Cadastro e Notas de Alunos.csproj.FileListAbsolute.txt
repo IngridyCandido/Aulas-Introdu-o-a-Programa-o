@@ -1,0 +1,14 @@
+C:\Users\Ingri\source\repos\Sistema de Cadastro e Notas de Alunos\Sistema de Cadastro e Notas de Alunos\bin\Debug\net8.0\Sistema de Cadastro e Notas de Alunos.exe
+C:\Users\Ingri\source\repos\Sistema de Cadastro e Notas de Alunos\Sistema de Cadastro e Notas de Alunos\bin\Debug\net8.0\Sistema de Cadastro e Notas de Alunos.deps.json
+C:\Users\Ingri\source\repos\Sistema de Cadastro e Notas de Alunos\Sistema de Cadastro e Notas de Alunos\bin\Debug\net8.0\Sistema de Cadastro e Notas de Alunos.runtimeconfig.json
+C:\Users\Ingri\source\repos\Sistema de Cadastro e Notas de Alunos\Sistema de Cadastro e Notas de Alunos\bin\Debug\net8.0\Sistema de Cadastro e Notas de Alunos.dll
+C:\Users\Ingri\source\repos\Sistema de Cadastro e Notas de Alunos\Sistema de Cadastro e Notas de Alunos\bin\Debug\net8.0\Sistema de Cadastro e Notas de Alunos.pdb
+C:\Users\Ingri\source\repos\Sistema de Cadastro e Notas de Alunos\Sistema de Cadastro e Notas de Alunos\obj\Debug\net8.0\Sistema de Cadastro e Notas de Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingri\source\repos\Sistema de Cadastro e Notas de Alunos\Sistema de Cadastro e Notas de Alunos\obj\Debug\net8.0\Sistema de Cadastro e Notas de Alunos.AssemblyInfoInputs.cache
+C:\Users\Ingri\source\repos\Sistema de Cadastro e Notas de Alunos\Sistema de Cadastro e Notas de Alunos\obj\Debug\net8.0\Sistema de Cadastro e Notas de Alunos.AssemblyInfo.cs
+C:\Users\Ingri\source\repos\Sistema de Cadastro e Notas de Alunos\Sistema de Cadastro e Notas de Alunos\obj\Debug\net8.0\Sistema de Cadastro e Notas de Alunos.csproj.CoreCompileInputs.cache
+C:\Users\Ingri\source\repos\Sistema de Cadastro e Notas de Alunos\Sistema de Cadastro e Notas de Alunos\obj\Debug\net8.0\Sistema de Cadastro e Notas de Alunos.dll
+C:\Users\Ingri\source\repos\Sistema de Cadastro e Notas de Alunos\Sistema de Cadastro e Notas de Alunos\obj\Debug\net8.0\refint\Sistema de Cadastro e Notas de Alunos.dll
+C:\Users\Ingri\source\repos\Sistema de Cadastro e Notas de Alunos\Sistema de Cadastro e Notas de Alunos\obj\Debug\net8.0\Sistema de Cadastro e Notas de Alunos.pdb
+C:\Users\Ingri\source\repos\Sistema de Cadastro e Notas de Alunos\Sistema de Cadastro e Notas de Alunos\obj\Debug\net8.0\Sistema de Cadastro e Notas de Alunos.genruntimeconfig.cache
+C:\Users\Ingri\source\repos\Sistema de Cadastro e Notas de Alunos\Sistema de Cadastro e Notas de Alunos\obj\Debug\net8.0\ref\Sistema de Cadastro e Notas de Alunos.dll
