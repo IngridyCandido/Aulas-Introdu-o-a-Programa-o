@@ -1,0 +1,14 @@
+C:\Users\Ingri\source\repos\Programa função afim\Programa função afim\obj\Debug\net8.0\Programa função afim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingri\source\repos\Programa função afim\Programa função afim\obj\Debug\net8.0\Programa função afim.AssemblyInfoInputs.cache
+C:\Users\Ingri\source\repos\Programa função afim\Programa função afim\obj\Debug\net8.0\Programa função afim.AssemblyInfo.cs
+C:\Users\Ingri\source\repos\Programa função afim\Programa função afim\obj\Debug\net8.0\Programa função afim.csproj.CoreCompileInputs.cache
+C:\Users\Ingri\source\repos\Programa função afim\Programa função afim\bin\Debug\net8.0\Programa função afim.exe
+C:\Users\Ingri\source\repos\Programa função afim\Programa função afim\bin\Debug\net8.0\Programa função afim.deps.json
+C:\Users\Ingri\source\repos\Programa função afim\Programa função afim\bin\Debug\net8.0\Programa função afim.runtimeconfig.json
+C:\Users\Ingri\source\repos\Programa função afim\Programa função afim\bin\Debug\net8.0\Programa função afim.dll
+C:\Users\Ingri\source\repos\Programa função afim\Programa função afim\bin\Debug\net8.0\Programa função afim.pdb
+C:\Users\Ingri\source\repos\Programa função afim\Programa função afim\obj\Debug\net8.0\Programa função afim.dll
+C:\Users\Ingri\source\repos\Programa função afim\Programa função afim\obj\Debug\net8.0\refint\Programa função afim.dll
+C:\Users\Ingri\source\repos\Programa função afim\Programa função afim\obj\Debug\net8.0\Programa função afim.pdb
+C:\Users\Ingri\source\repos\Programa função afim\Programa função afim\obj\Debug\net8.0\Programa função afim.genruntimeconfig.cache
+C:\Users\Ingri\source\repos\Programa função afim\Programa função afim\obj\Debug\net8.0\ref\Programa função afim.dll
