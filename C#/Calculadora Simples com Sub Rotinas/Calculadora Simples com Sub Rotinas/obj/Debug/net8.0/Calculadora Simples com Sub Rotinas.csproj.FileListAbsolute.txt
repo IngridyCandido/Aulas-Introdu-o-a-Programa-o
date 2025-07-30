@@ -1,0 +1,14 @@
+C:\Users\20251038060006\source\repos\Calculadora Simples com Sub Rotinas\Calculadora Simples com Sub Rotinas\bin\Debug\net8.0\Calculadora Simples com Sub Rotinas.exe
+C:\Users\20251038060006\source\repos\Calculadora Simples com Sub Rotinas\Calculadora Simples com Sub Rotinas\bin\Debug\net8.0\Calculadora Simples com Sub Rotinas.deps.json
+C:\Users\20251038060006\source\repos\Calculadora Simples com Sub Rotinas\Calculadora Simples com Sub Rotinas\bin\Debug\net8.0\Calculadora Simples com Sub Rotinas.runtimeconfig.json
+C:\Users\20251038060006\source\repos\Calculadora Simples com Sub Rotinas\Calculadora Simples com Sub Rotinas\bin\Debug\net8.0\Calculadora Simples com Sub Rotinas.dll
+C:\Users\20251038060006\source\repos\Calculadora Simples com Sub Rotinas\Calculadora Simples com Sub Rotinas\bin\Debug\net8.0\Calculadora Simples com Sub Rotinas.pdb
+C:\Users\20251038060006\source\repos\Calculadora Simples com Sub Rotinas\Calculadora Simples com Sub Rotinas\obj\Debug\net8.0\Calculadora Simples com Sub Rotinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20251038060006\source\repos\Calculadora Simples com Sub Rotinas\Calculadora Simples com Sub Rotinas\obj\Debug\net8.0\Calculadora Simples com Sub Rotinas.AssemblyInfoInputs.cache
+C:\Users\20251038060006\source\repos\Calculadora Simples com Sub Rotinas\Calculadora Simples com Sub Rotinas\obj\Debug\net8.0\Calculadora Simples com Sub Rotinas.AssemblyInfo.cs
+C:\Users\20251038060006\source\repos\Calculadora Simples com Sub Rotinas\Calculadora Simples com Sub Rotinas\obj\Debug\net8.0\Calculadora Simples com Sub Rotinas.csproj.CoreCompileInputs.cache
+C:\Users\20251038060006\source\repos\Calculadora Simples com Sub Rotinas\Calculadora Simples com Sub Rotinas\obj\Debug\net8.0\Calculadora Simples com Sub Rotinas.dll
+C:\Users\20251038060006\source\repos\Calculadora Simples com Sub Rotinas\Calculadora Simples com Sub Rotinas\obj\Debug\net8.0\refint\Calculadora Simples com Sub Rotinas.dll
+C:\Users\20251038060006\source\repos\Calculadora Simples com Sub Rotinas\Calculadora Simples com Sub Rotinas\obj\Debug\net8.0\Calculadora Simples com Sub Rotinas.pdb
+C:\Users\20251038060006\source\repos\Calculadora Simples com Sub Rotinas\Calculadora Simples com Sub Rotinas\obj\Debug\net8.0\Calculadora Simples com Sub Rotinas.genruntimeconfig.cache
+C:\Users\20251038060006\source\repos\Calculadora Simples com Sub Rotinas\Calculadora Simples com Sub Rotinas\obj\Debug\net8.0\ref\Calculadora Simples com Sub Rotinas.dll
