@@ -1,0 +1,14 @@
+C:\Users\20251038060006\source\repos\Sub-Rotinas\Sub-Rotinas\bin\Debug\net8.0\Sub-Rotinas.exe
+C:\Users\20251038060006\source\repos\Sub-Rotinas\Sub-Rotinas\bin\Debug\net8.0\Sub-Rotinas.deps.json
+C:\Users\20251038060006\source\repos\Sub-Rotinas\Sub-Rotinas\bin\Debug\net8.0\Sub-Rotinas.runtimeconfig.json
+C:\Users\20251038060006\source\repos\Sub-Rotinas\Sub-Rotinas\bin\Debug\net8.0\Sub-Rotinas.dll
+C:\Users\20251038060006\source\repos\Sub-Rotinas\Sub-Rotinas\bin\Debug\net8.0\Sub-Rotinas.pdb
+C:\Users\20251038060006\source\repos\Sub-Rotinas\Sub-Rotinas\obj\Debug\net8.0\Sub-Rotinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20251038060006\source\repos\Sub-Rotinas\Sub-Rotinas\obj\Debug\net8.0\Sub-Rotinas.AssemblyInfoInputs.cache
+C:\Users\20251038060006\source\repos\Sub-Rotinas\Sub-Rotinas\obj\Debug\net8.0\Sub-Rotinas.AssemblyInfo.cs
+C:\Users\20251038060006\source\repos\Sub-Rotinas\Sub-Rotinas\obj\Debug\net8.0\Sub-Rotinas.csproj.CoreCompileInputs.cache
+C:\Users\20251038060006\source\repos\Sub-Rotinas\Sub-Rotinas\obj\Debug\net8.0\Sub-Rotinas.dll
+C:\Users\20251038060006\source\repos\Sub-Rotinas\Sub-Rotinas\obj\Debug\net8.0\refint\Sub-Rotinas.dll
+C:\Users\20251038060006\source\repos\Sub-Rotinas\Sub-Rotinas\obj\Debug\net8.0\Sub-Rotinas.pdb
+C:\Users\20251038060006\source\repos\Sub-Rotinas\Sub-Rotinas\obj\Debug\net8.0\Sub-Rotinas.genruntimeconfig.cache
+C:\Users\20251038060006\source\repos\Sub-Rotinas\Sub-Rotinas\obj\Debug\net8.0\ref\Sub-Rotinas.dll
